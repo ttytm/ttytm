@@ -11,7 +11,6 @@
       - 🤔 I’m looking for help with ...
       - 💬 Ask me about ...
       - 📫 How to reach me: ...
-      - 😄 Pronouns: ...
       - ⚡ Fun fact: ...
       -->
   <div>
@@ -40,7 +39,7 @@
       <td>
         <sub><em>Default Analysis - All Commits</em></sub><br />
         <img align="center" width="420" src="assets/langs-all.svg" alt="All Commits Analysis" /><br />
-        <sub><em>Indepth Analysis - Restrict to Public Profile & Category "Programming"</em></sub><br />
+        <sub><em>Indepth Analysis - Public Profile Commits (Category: "Programming")</em></sub><br />
         <img align="center" width="420" src="assets/langs-indepth-programming.svg" alt="Programming Category Analysis" /><br />
         <sub><em>Default Analysis - Recent Commits (30 Days)</em></sub><br />
         <img align="center" width="420" src="assets/langs-recent.svg" alt="Recent Analysis" /><br />
