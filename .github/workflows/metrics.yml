@@ -4,15 +4,15 @@ name: Metrics
 on:
   # 🌏 No need to update stats too frequently
   #schedule: [{cron: "0 18 * * *"}]
-  schedule: [{cron: "0 12 * * 0"}]
+  schedule: [{ cron: "0 12 * * 0" }]
   # 💡 Allow running workflow manually from action tab
   workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
     #permissions:
-      #contents: write
-      #pull-requests: write
+    #contents: write
+    #pull-requests: write
     steps:
       - name: Base
         uses: lowlighter/metrics@latest
@@ -25,6 +25,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full_year
       - name: Langs
         uses: lowlighter/metrics@latest
         with:
@@ -78,12 +79,12 @@ jobs:
           #plugin_languages_recent_load: 300
           #plugin_languages_recent_categories: programming
       #- name: Featured star list languages
-        #uses: lowlighter/metrics@latest
-        #with:
-          #filename: langs-starlist.svg
-          #token: NOT_NEEDED
-          #base: ""
-          #plugin_starlists: yes
-          #plugin_starlists_languages: yes
-          #plugin_starlists_limit_languages: 8
-          #plugin_starlists_limit_repositories: 0
+      #uses: lowlighter/metrics@latest
+      #with:
+      #filename: langs-starlist.svg
+      #token: NOT_NEEDED
+      #base: ""
+      #plugin_starlists: yes
+      #plugin_starlists_languages: yes
+      #plugin_starlists_limit_languages: 8
+      #plugin_starlists_limit_repositories: 0
