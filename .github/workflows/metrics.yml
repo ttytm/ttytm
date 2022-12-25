@@ -42,6 +42,7 @@ jobs:
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Nix
           plugin_languages_recent_days: 14
+          plugin_languages_skipped: tobealive/jikan
       - name: Langs Indepth Programming
         uses: lowlighter/metrics@latest
         with:
@@ -59,6 +60,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Nix
+          plugin_languages_skipped: tobealive/jikan
       - name: Langs Recent
         uses: lowlighter/metrics@latest
         with:
@@ -75,6 +77,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Nix
+          plugin_languages_skipped: tobealive/jikan
           plugin_languages_recent_days: 30
           #plugin_languages_recent_load: 300
           #plugin_languages_recent_categories: programming
