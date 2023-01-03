@@ -1,7 +1,7 @@
 <div align="center">
 	<section>
 		<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img width="375" src="https://github-readme-stats.vercel.app/api?username=tobealive&count_private=true&show_icons=true&theme=tokyonight">
+		<img width="375" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tobealive&count_private=true&include_orgs=true&show_icons=true&theme=tokyonight">
 		</a>
 		&nbsp; &nbsp;
 		<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
