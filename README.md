@@ -1,5 +1,6 @@
-<div align="center">
-	<section>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&animation=twinkling" /></div>
+<div>
+	<section align="center">
 		<a href="https://github.com/anuraghazra/github-readme-stats">
 			<img width="375" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tobealive&count_private=true&include_orgs=true&show_icons=true&theme=tokyonight">
 		</a>
@@ -7,42 +8,49 @@
 		<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 			<img width="375" src="https://streak-stats.demolab.com/?user=tobealive&theme=tokyonight">
 		</a>
-		<details>
-			<summary><sub>Language Analysis with <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></sub></summary><br>
-			<a href="https://github.com/anuraghazra/github-readme-stats">
-				<img width="285" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tobealive&count_private=true&include_orgs=true&langs_count=10&hide=Nix&theme=tokyonight">
-			</a>
-		</details>
 	</section>
 	<div>&nbsp;</div>
 	<section>
-		<table>
-			<tr>
-				<td>
-					<br>
-					<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/base.svg" alt="Base" /></a><br>
-					<img src="./.empty-path/to-fix-table-on-mobile.gif" width="360">
-				</td>
-				<td>
-					<sub><em>Default Analysis - Profile Repositories</em></sub><br>
-					<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-all.svg" alt="All Commits Analysis"></a><br>
-					<br>
-					<sub><em>Indepth Analysis - Public Commits (Category: "Programming")</em></sub><br>
-					<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-indepth-programming.svg" alt="Programming Category Analysis"></a><br>
-					<br>
-					<sub><em>Default Analysis - Recent Commits (30 Days)</em></sub><br>
-					<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-recent.svg" alt="Recent Analysis"></a><br>
-					<a href="https://github.com/tobealive"><img src="/.github/readme/imgs/features_embed.gif" width="360"></a>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="2" align="right">
-					<sub>
-					<sup>Profile Analysis & Language Activity. Generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sup>
-					</sub>
-				</td>
-			</tr>
-		</table>
+		<details>
+			<summary><sub><sup><h2>📊 GitHub Profile Analysis</h2></sup></sub></summary>
+			<table align="center">
+				<tr>
+					<td>
+						<br>
+						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/base.svg" alt="Base" /></a><br>
+						<img src="./.empty-path/to-fix-table-on-mobile.gif" width="360">
+					</td>
+					<td>
+						<sub><em>Default Analysis - Profile Repositories</em></sub><br>
+						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-all.svg" alt="All Commits Analysis"></a><br>
+						<br>
+						<sub><em>Indepth Analysis - Public Commits (Category: "Programming")</em></sub><br>
+						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-indepth-programming.svg" alt="Programming Category Analysis"></a><br>
+						<br>
+						<sub><em>Default Analysis - Recent Commits (30 Days)</em></sub><br>
+						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-recent.svg" alt="Recent Analysis"></a><br>
+						<a href="https://github.com/tobealive"><img src="/.github/readme/imgs/features_embed.gif" width="360"></a>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" align="right">
+						<sub>
+						<sup>Profile Analysis & Language Activity. Generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sup>
+						</sub>
+					</td>
+				</tr>
+			</table>
+			<details>
+			<summary><sub><sup><h3>Language Analysis with <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></h3></sup></sub></summary><br>
+			<div align="center">
+				<a href="https://github.com/anuraghazra/github-readme-stats">
+					<img width="285" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tobealive&count_private=true&include_orgs=true&langs_count=10&hide=Nix&theme=transparent">
+				</a>
+			</div>
+		</details>
+		</details>
 	</section>
-	<footer><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" /></footer>
+	<div align="center">
+		<!--<footer><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" /></footer>-->
+	</div>
 </div>
