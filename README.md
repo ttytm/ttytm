@@ -26,12 +26,14 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 ##
 
 <br>
+
 <div>
 	<section align="center">
+		&nbsp; &nbsp;
 		<a href="https://github.com/anuraghazra/github-readme-stats">
 			<img width="375" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tobealive&count_private=true&include_orgs=true&show_icons=true&theme=tokyonight">
 		</a>
-		&nbsp; &nbsp;
+		<img src="./empty-path/fix-alignment-on-mobile.gif" width="10">
 		<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 			<img width="375" src="https://streak-stats.demolab.com/?user=tobealive&theme=tokyonight">
 		</a>
@@ -45,7 +47,7 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 					<td>
 						<br>
 						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/base.svg" alt="Base" /></a><br>
-						<img src="./.empty-path/to-fix-table-on-mobile.gif" width="360">
+						<img src="./empty-path/fix-alignment-on-mobile.gif" width="360">
 					</td>
 					<td>
 						<sub><em>Default Analysis - Profile Repositories</em></sub><br>
@@ -56,7 +58,7 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 						<br>
 						<sub><em>Default Analysis - Recent Commits (30 Days)</em></sub><br>
 						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-recent.svg" alt="Recent Analysis"></a><br>
-						<a href="https://github.com/tobealive"><img src="/.github/readme/imgs/features_embed.gif" width="360"></a>
+						<a href="https://github.com/tobealive"><img src="./empty-path/fix-alignment-on-mobile.gif" width="360"></a>
 					</td>
 				</tr>
 				<tr>
