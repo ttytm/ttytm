@@ -1,4 +1,31 @@
+## Hello there 👋
+
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&animation=twinkling" /></div>
+
+My name is Turiiya. I loved to spend time in the ashram. That's where I got this Sanskrit name from. My societal - let's say "muggle-name" - is Tobi.
+
+I completed my education in IT with a focus on multimedia technologies in 2008. I'm also a licensed fitness trainer and nutritionist and have volunteered for various organizations for several years.
+
+### Some fun facts about me as a developer
+
+- Published my first websites in 2004 at the age of 13.
+- Had several awarded and top ranking website designs in the following years.
+- Comparing the number of users in my personal projects, some game user interfaces and mods I published 15+ years ago when I used to play video games would funnily (or sadly? Lol🙈) still be among my most successful projects today.
+- Now I program open heartedly in nearly every language. Except Java. Life is too short to code in Java.
+
+### Focus tasks
+
+- 📚 Keep learning _(despite the fact that the more you know, the more you realize you don't know)_
+- 😴 Add sleep
+- 👨‍👩‍👧‍👦 Make babies
+- 🎸 Restring guitar
+- 🧘 Visit friends in ashram
+- 🏋️ Update health
+- 🤓 Continue Web3 voyages
+
+##
+
+<br>
 <div>
 	<section align="center">
 		<a href="https://github.com/anuraghazra/github-readme-stats">
