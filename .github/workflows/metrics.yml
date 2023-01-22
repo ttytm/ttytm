@@ -26,7 +26,7 @@ jobs:
           config_timezone: Europe/Berlin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: Langs
+      - name: Langs - Profile Repositories
         uses: lowlighter/metrics@latest
         with:
           filename: assets/langs-all.svg
@@ -39,10 +39,10 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
           plugin_languages_aliases: RenderScript:Rust
-          plugin_languages_ignored: Nix
+          plugin_languages_ignored: Nix, html, css
           plugin_languages_recent_days: 14
           plugin_languages_skipped: tobealive/jikan
-      - name: Langs Indepth Programming
+      - name: Langs Indepth - Public (Programming)
         uses: lowlighter/metrics@latest
         with:
           filename: assets/langs-indepth-programming.svg
@@ -59,7 +59,7 @@ jobs:
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Nix
           plugin_languages_skipped: tobealive/jikan
-      - name: Langs Recent
+      - name: Langs - Recent
         uses: lowlighter/metrics@latest
         with:
           filename: assets/langs-recent.svg
