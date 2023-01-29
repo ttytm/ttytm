@@ -30,24 +30,48 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 <div>
 	<section align="center">
 		&nbsp; &nbsp;
-		<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img width="375" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tobealive&count_private=true&include_orgs=true&show_icons=true&theme=tokyonight">
-		</a>
-		<img src="./empty-path/fix-alignment-on-mobile.gif" width="10">
-		<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-			<img width="375" src="https://streak-stats.demolab.com/?user=tobealive&theme=tokyonight">
-		</a>
+		<table align="center">
+			<tr>
+				<td>
+					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
+					<img width="360" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api?username=tobealive&count_private=true&include_orgs=true&show_icons=true&theme=tokyonight&border_color=15161e">
+					<h2></h2>
+					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
+					<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+					<img width="360" src="https://streak-stats.demolab.com/?user=tobealive&theme=tokyonight&border=15161e&stroke=15161e">
+					</a>
+					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
+				</td>
+				<td>
+					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
+					<img width="270" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&count_private=true&include_orgs=true&langs_count=8&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet&theme=tokyonight&border_color=15161e">
+					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
+				</td>
+			<tr>
+				<td colspan="2" align="right">
+					<sub>
+					<sup>Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>. Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/github-readme-streak-stats</a></sup>
+					</sub>
+				</td>
+			</tr>
+		</table>
 	</section>
 	<div>&nbsp;</div>
 	<section>
 		<details>
-			<summary><sub><sup><h2>📊 GitHub Profile Analysis</h2></sup></sub></summary>
+			<summary>
+				<sub>
+					<sup>
+						<h2>📊 GitHub Profile Metrics</h2>
+					</sup>
+				</sub>
+			</summary>
 			<table align="center">
 				<tr>
 					<td>
 						<br>
 						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/base.svg" alt="Base" /></a><br>
-						<img src="./empty-path/fix-alignment-on-mobile.gif" width="360">
+						<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
 					</td>
 					<td>
 						<sub><em>Default Analysis - Profile Repositories</em></sub><br>
@@ -58,7 +82,7 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 						<br>
 						<sub><em>Default Analysis - Recent Commits (30 Days)</em></sub><br>
 						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-recent.svg" alt="Recent Analysis"></a><br>
-						<a href="https://github.com/tobealive"><img src="./empty-path/fix-alignment-on-mobile.gif" width="360"></a>
+						<a href="https://github.com/tobealive"><img width="360" src="./empty-path/fix-alignment-on-mobile.gif"></a>
 					</td>
 				</tr>
 				<tr>
@@ -69,14 +93,6 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 					</td>
 				</tr>
 			</table>
-			<details>
-			<summary><sub><sup><h3>Language Analysis with <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></h3></sup></sub></summary><br>
-			<div align="center">
-				<a href="https://github.com/anuraghazra/github-readme-stats">
-					<img width="285" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tobealive&count_private=true&include_orgs=true&langs_count=10&hide=Nix&theme=transparent">
-				</a>
-			</div>
-		</details>
 		</details>
 	</section>
 	<div align="center">
