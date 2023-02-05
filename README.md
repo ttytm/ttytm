@@ -32,7 +32,7 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 		&nbsp; &nbsp;
 		<table align="center">
 			<tr>
-				<td>
+				<td align="center">
 					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
 					<img width="360" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api?username=tobealive&count_private=true&include_orgs=true&show_icons=true&theme=tokyonight&border_color=15161e">
 					<h2></h2>
@@ -42,7 +42,7 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 					</a>
 					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
 				</td>
-				<td>
+				<td align="center">
 					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
 					<img width="270" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&count_private=true&include_orgs=true&langs_count=8&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet&theme=tokyonight&border_color=15161e">
 					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
