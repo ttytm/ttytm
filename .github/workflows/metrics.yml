@@ -1,12 +1,14 @@
 # See https://github.com/lowlighter/metrics for documentation about how to use metrics action
 
 name: Metrics
+
 on:
   # 🌏 No need to update stats too frequently
   #schedule: [{cron: "0 18 * * *"}]
   schedule: [{ cron: "0 12 * * 0" }]
   # 💡 Allow running workflow manually from action tab
   workflow_dispatch:
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -58,7 +60,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Nix
-          plugin_languages_skipped: tobealive/jikan
+          plugin_languages_skipped: tobealive/jikan, tobealive/dots
       - name: Langs - Recent
         uses: lowlighter/metrics@latest
         with:
