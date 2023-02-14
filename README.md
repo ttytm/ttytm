@@ -13,6 +13,13 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 - Comparing the number of users in my personal projects, some game user interfaces and mods I published 15+ years ago when I used to play video games would funnily (or sadly? Lol🙈) still be among my most successful projects today.
 - Now I program open heartedly in nearly every language. Except Java. Life is too short to code in Java.
 
+**🧰 Honorable mentions from my toolbox**
+
+- 🪟 any proper tiling window manager - gravitating towards <a target="_blank" href="https://github.com/Bismuth-Forge/bismuth">bismuth</a> since 2021 though
+- <sup><sub>⌨️ ⌨️</sub></sup> a split keyboard - not only for ergos, but also to VIMpower navigation of my whole OS
+- 🧠 a knowledge management tool - currently, I'm using neovim to manage an obsidian vault. However, it's hard to settle when there is exceptional software emerging like <a target="_blank" href="https://github.com/siyuan-note/siyuan">siyuan-note</a>
+- 🔫 the secret sauce is <a target="_blank" href="">nxvim</a>
+
 ### Focus tasks
 
 - 📚 Keep learning _(despite the fact that the more you know, the more you realize you don't know)_
@@ -44,7 +51,7 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 				</td>
 				<td align="center">
 					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
-					<img width="270" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&count_private=true&include_orgs=true&langs_count=8&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet&theme=tokyonight&border_color=15161e">
+					<img width="270" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&count_private=true&include_orgs=true&langs_count=8&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=tokyonight&border_color=15161e">
 					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
 				</td>
 			<tr>
