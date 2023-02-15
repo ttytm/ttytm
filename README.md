@@ -11,16 +11,16 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 - Published my first websites in 2004 at the age of 13.
 - Had several awarded and top ranking website designs in the following years.
 - Comparing the number of users in my personal projects, some game user interfaces and mods I published 15+ years ago when I used to play video games would funnily (or sadly? Lol🙈) still be among my most successful projects today.
-- Now I program open heartedly in nearly every language. Except Java. Life is too short to code in Java.
+- Now I program open-heartedly in nearly every language. Except Java. Life is too short to code in Java.
 
-**🧰 Honorable mentions from my toolbox**
+#### 🧰 Honorable mentions from my toolbox
 
 - 🪟 any proper tiling window manager - gravitating towards <a target="_blank" href="https://github.com/Bismuth-Forge/bismuth">bismuth</a> since 2021 though
 - <sup><sub>⌨️ ⌨️</sub></sup> a split keyboard - not only for ergos, but also to VIMpower navigation of my whole OS
 - 🧠 a knowledge management tool - currently, I'm using neovim to manage an obsidian vault. However, it's hard to settle when there is exceptional software emerging like <a target="_blank" href="https://github.com/siyuan-note/siyuan">siyuan-note</a>
 - 🔫 the secret sauce is <a target="_blank" href="https://github.com/tenxsoydev/nxvim/">nxvim</a>
 
-### Focus tasks
+<!-- ### Focus tasks
 
 - 📚 Keep learning _(despite the fact that the more you know, the more you realize you don't know)_
 - 😴 Add sleep
@@ -28,7 +28,7 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 - 🎸 Restring guitar
 - 🧘 Visit friends in ashram
 - 🏋️ Update health
-- 🤓 Continue Web3 voyages
+- 🤓 Continue Web3 voyages -->
 
 ##
 
@@ -106,4 +106,3 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 		<!--<footer><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" /></footer>-->
 	</div>
 </div>
-
