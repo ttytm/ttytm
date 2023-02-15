@@ -18,7 +18,7 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 - 🪟 any proper tiling window manager - gravitating towards <a target="_blank" href="https://github.com/Bismuth-Forge/bismuth">bismuth</a> since 2021 though
 - <sup><sub>⌨️ ⌨️</sub></sup> a split keyboard - not only for ergos, but also to VIMpower navigation of my whole OS
 - 🧠 a knowledge management tool - currently, I'm using neovim to manage an obsidian vault. However, it's hard to settle when there is exceptional software emerging like <a target="_blank" href="https://github.com/siyuan-note/siyuan">siyuan-note</a>
-- 🔫 the secret sauce is <a target="_blank" href="https://github.com/tenxsoydev/nxvim/commits/main/lua/nxvim">nxvim</a>
+- 🔫 the secret sauce is <a target="_blank" href="https://github.com/tenxsoydev/nxvim/">nxvim</a>
 
 ### Focus tasks
 
@@ -106,3 +106,4 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 		<!--<footer><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" /></footer>-->
 	</div>
 </div>
+
