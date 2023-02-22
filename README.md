@@ -13,14 +13,16 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 - Comparing the number of users in my personal projects, some game user interfaces and mods I published 15+ years ago when I used to play video games would funnily (or sadly? Lol🙈) still be among my most successful projects today.
 - Now I program open-heartedly in nearly every language. Except Java. Life is too short to code in Java.
 
-#### 🧰 Honorable mentions from my toolbox
+<details>
+  <summary><bold>🧰 Honorable mentions from my toolbox</bold></summary>
 
 - 🪟 any proper tiling window manager - gravitating towards <a target="_blank" href="https://github.com/Bismuth-Forge/bismuth">bismuth</a> since 2021 though
 - <sup><sub>⌨️ ⌨️</sub></sup> a split keyboard - not only for ergos, but also to VIMpower navigation of my whole OS
 - 🧠 a knowledge management tool - currently, I'm using neovim to manage an obsidian vault. However, it's hard to settle when there is exceptional software emerging like <a target="_blank" href="https://github.com/siyuan-note/siyuan">siyuan-note</a>
 - 🔫 the secret sauce is <a target="_blank" href="https://github.com/tenxsoydev/nxvim/">nxvim</a>
+</details>
 
-<!-- ### Focus tasks
+### Personal focus tasks
 
 - 📚 Keep learning _(despite the fact that the more you know, the more you realize you don't know)_
 - 😴 Add sleep
@@ -28,7 +30,7 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 - 🎸 Restring guitar
 - 🧘 Visit friends in ashram
 - 🏋️ Update health
-- 🤓 Continue Web3 voyages -->
+- 🤓 Continue Web3 voyages
 
 ##
 
