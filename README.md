@@ -53,7 +53,7 @@ I completed my education in IT with a focus on multimedia technologies in 2008. 
 				</td>
 				<td align="center">
 					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
-					<img width="270" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&count_private=true&include_orgs=true&langs_count=8&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=tokyonight&border_color=15161e">
+					<img width="250" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&count_private=true&include_orgs=true&langs_count=9&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=tokyonight&border_color=15161e">
 					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
 				</td>
 			<tr>
