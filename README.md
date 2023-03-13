@@ -1,80 +1,57 @@
-## Hello there 👋
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=6272A4&height=110&section=header&animation=twinkling" /></div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&animation=twinkling" /></div>
+**Hello there 🙏**
 
-My name is Turiiya. I loved to spend time in the ashram. That's where I got this Sanskrit name from. My societal - let's say "muggle-name" - is Tobi.
+I go by Turiiya. That's a Sanskrit name I got when I spent a good part of my life in the ashram.
+My societal - let's say "muggle-name" - is Tobi.
+
+<a id="about">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=About&height=120&fontSize=42&fontAlign=7&desc=Some%20side%20facts%20about%20me&descSize=22&descAlignY=75&descAlign=21">
+</a>
 
 I completed my education in IT with a focus on multimedia technologies in 2008. I'm also a licensed fitness trainer and nutritionist and have volunteered for various organizations for several years.
 
-### Some fun facts about me as a developer
-
-- Published my first websites in 2004 at the age of 13.
-- Had several awarded and top ranking website designs in the following years.
-- Comparing the number of users in my personal projects, some game user interfaces and mods I published 15+ years ago when I used to play video games would funnily (or sadly? Lol🙈) still be among my most successful projects today.
-- Now I program open-heartedly in nearly every language. Except Java. Life is too short to code in Java.
-
-<details>
-  <summary><bold>🧰 Honorable mentions from my toolbox</bold></summary>
-
-- 🪟 any proper tiling window manager - gravitating towards <a target="_blank" href="https://github.com/Bismuth-Forge/bismuth">bismuth</a> since 2021 though
-- <sup><sub>⌨️ ⌨️</sub></sup> a split keyboard - not only for ergos, but also to VIMpower navigation of my whole OS
-- 🧠 a knowledge management tool - currently, I'm using neovim to manage an obsidian vault. However, it's hard to settle when there is exceptional software emerging like <a target="_blank" href="https://github.com/siyuan-note/siyuan">siyuan-note</a>
-- 🔫 the secret sauce is <a target="_blank" href="https://github.com/tenxsoydev/nxvim/">nxvim</a>
-</details>
-
-### Personal focus tasks
-
-- 📚 Keep learning _(despite the fact that the more you know, the more you realize you don't know)_
-- 😴 Add sleep
-- 👨‍👩‍👧‍👦 Make babies
-- 🎸 Restring guitar
-- 🧘 Visit friends in ashram
-- 🏋️ Update health
-- 🤓 Continue Web3 voyages
-
-##
+- 👣 Published my first websites in 2004 at the age of 13 (which wouldn't be that early today I guess).
+- 🏆 Had several awarded and top ranking website designs in the following years.
+- 🕳️ Creating some user interfaces and mods for games 15+ years ago started me on a journey of UI and UX development.
+- 🌐 Today, I program open-heartedly in nearly every language. Except Java. Life is too short to code in Java.
+- 👷 Done quite some DevOps work, but haven't found the time to finish the advanced DevOps Pro exam yet.
+- 🚀 Would love to do more web3 related work.
 
 <br>
 
+Personal focus tasks
+
+- 📚 Keep learning _(though, it is a vicious circle, as the more you know, the more you realize that you don't know)_
+- 💤 Add sleep
+- 💆 Keep my shit together, make some babies, and be a responsible parent (most of the time).
+- 🎸 Restring guitar
+- 🧘 Visit friends in ashram
+- 🏋️ Update health
+
+<a id="tools">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Tools&height=120&fontSize=42&fontAlign=7&desc=Honorable%20mentions%20from%20my%20toolbox&descSize=22&descAlignY=75&descAlign=27">
+</a>
+
+- 🪟 Any proper tiling window manager - gravitating towards <a target="_blank" href="https://github.com/Bismuth-Forge/bismuth">bismuth</a> since 2021 though.
+- <sup><sub>⌨️ ⌨️</sub></sup> A programmable split keyboard - for ergos and to give VIMpowers to my whole OS (it's an keebio iris atm).
+- 🧠 Knowledge management tools - currently, I'm using neovim to manage an obsidian vault. However, it's hard to settle when there is exceptional software emerging like <a target="_blank" href="https://github.com/siyuan-note/siyuan">siyuan-note</a>.
+- 🔫 The secret sauce is <a target="_blank" href="https://github.com/tenxsoydev/nxvim/">nxvim</a>.
+
+<a id="stats">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Stats&height=120&fontSize=42&fontAlign=7&desc=Profile%20analysis&descSize=22&descAlignY=75&descAlign=14" />
+</a>
+
+<img width="350" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&layout=compact&count_private=true&include_orgs=true&langs_count=12&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=blueberry&border_color=6272A4">
+<img width="420" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api?username=tobealive&count_private=true&include_orgs=true&show_icons=true&theme=blueberry&border_color=6272A4">
+<!-- <img width="450" src="https://streak-stats.demolab.com/?user=tobealive&theme=tokyonight&border=15161e&stroke=15161e"> -->
+
+<br>
 <div>
-	<section align="center">
-		&nbsp; &nbsp;
-		<table align="center">
-			<tr>
-				<td align="center">
-					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
-					<img width="360" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api?username=tobealive&count_private=true&include_orgs=true&show_icons=true&theme=tokyonight&border_color=15161e">
-					<h2></h2>
-					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
-					<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-					<img width="360" src="https://streak-stats.demolab.com/?user=tobealive&theme=tokyonight&border=15161e&stroke=15161e">
-					</a>
-					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
-				</td>
-				<td align="center">
-					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
-					<img width="250" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&count_private=true&include_orgs=true&langs_count=9&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=tokyonight&border_color=15161e">
-					<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
-				</td>
-			<tr>
-				<td colspan="2" align="right">
-					<sub>
-					<sup>Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>. Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/github-readme-streak-stats</a></sup>
-					</sub>
-				</td>
-			</tr>
-		</table>
-	</section>
-	<div>&nbsp;</div>
 	<section>
 		<details>
-			<summary>
-				<sub>
-					<sup>
-						<h2>📊 GitHub Profile Metrics</h2>
-					</sup>
-				</sub>
-			</summary>
+			<summary>📊 Metrics</summary>
+      <br>
 			<table align="center">
 				<tr>
 					<td>
