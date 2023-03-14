@@ -1,4 +1,6 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=6272A4&height=110&section=header&animation=twinkling" /></div>
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=6272A4&height=110&section=header&animation=twinkling">
+</div>
 
 **Hello there 🙏**
 
@@ -6,7 +8,7 @@ I go by Turiiya. That's a Sanskrit name I got when I spent a good part of my lif
 My societal - let's say "muggle-name" - is Tobi.
 
 <a id="about">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=About&height=130&fontSize=48&fontAlign=8&desc=Some%20side%20facts%20about%20me&descSize=24&descAlignY=75&descAlign=21">
+	<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=About&height=130&fontSize=48&fontAlign=8&desc=Some%20side%20facts%20about%20me&descSize=24&descAlignY=75&descAlign=21">
 </a>
 
 I completed my education in IT with a focus on multimedia technologies in 2008. I'm also a licensed fitness trainer and nutritionist and have volunteered for various organizations for several years.
@@ -51,35 +53,51 @@ Personal focus tasks
 	<section>
 		<details>
 			<summary>📊 Metrics</summary>
-      <br>
+			<br />
 			<table align="center">
 				<tr>
 					<td>
-						<br>
+						<br />
 						<a href="https://github.com/tobealive">
-              <img align="center" width="420" src="assets/base.svg" alt="Base" />
-            </a>
-            <br>
-            <!-- pseudo img to preserve size on mobile -->
-						<img width="360" src="./path-nowhere/pseudo.gif">
+							<img align="center" width="420" src="assets/base.svg" alt="Base" />
+						</a>
+						<br />
+						<!-- pseudo img to preserve size on mobile -->
+						<img width="360" src="./path-nowhere/pseudo.gif" />
 					</td>
 					<td>
-						<sub><em>Default Analysis - Profile Repositories</em></sub><br>
-						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-all.svg" alt="All Commits Analysis"></a><br>
-						<br>
-						<sub><em>Indepth Analysis - Public Commits (Category: "Programming")</em></sub><br>
-						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-indepth-programming.svg" alt="Programming Category Analysis"></a><br>
-						<br>
-						<sub><em>Default Analysis - Recent Commits (30 Days)</em></sub><br>
-						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-recent.svg" alt="Recent Analysis"></a><br>
-            <!-- pseudo img to preserve size on mobile -->
-						<img width="360" src="./path-nowhere/pseudo.gif">
+						<sub><em>Default Analysis - Profile Repositories</em></sub
+						><br />
+						<a href="https://github.com/tobealive"
+							><img align="center" width="420" src="assets/langs-all.svg" alt="All Commits Analysis" /></a
+						><br />
+						<br />
+						<sub><em>Indepth Analysis - Public Commits (Category: "Programming")</em></sub
+						><br />
+						<a href="https://github.com/tobealive"
+							><img
+								align="center"
+								width="420"
+								src="assets/langs-indepth-programming.svg"
+								alt="Programming Category Analysis" /></a
+						><br />
+						<br />
+						<sub><em>Default Analysis - Recent Commits (30 Days)</em></sub
+						><br />
+						<a href="https://github.com/tobealive"
+							><img align="center" width="420" src="assets/langs-recent.svg" alt="Recent Analysis" /></a
+						><br />
+						<!-- pseudo img to preserve size on mobile -->
+						<img width="360" src="./path-nowhere/pseudo.gif" />
 					</td>
 				</tr>
 				<tr>
 					<td colspan="2" align="right">
 						<sub>
-						<sup>Profile Analysis & Language Activity. Generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sup>
+							<sup
+								>Profile Analysis & Language Activity. Generated with
+								<a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sup
+							>
 						</sub>
 					</td>
 				</tr>
