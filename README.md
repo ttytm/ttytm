@@ -6,7 +6,7 @@ I go by Turiiya. That's a Sanskrit name I got when I spent a good part of my lif
 My societal - let's say "muggle-name" - is Tobi.
 
 <a id="about">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=About&height=120&fontSize=42&fontAlign=7&desc=Some%20side%20facts%20about%20me&descSize=22&descAlignY=75&descAlign=21">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=About&height=130&fontSize=48&fontAlign=8&desc=Some%20side%20facts%20about%20me&descSize=24&descAlignY=75&descAlign=21">
 </a>
 
 I completed my education in IT with a focus on multimedia technologies in 2008. I'm also a licensed fitness trainer and nutritionist and have volunteered for various organizations for several years.
@@ -30,7 +30,7 @@ Personal focus tasks
 - 🏋️ Update health
 
 <a id="tools">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Tools&height=120&fontSize=42&fontAlign=7&desc=Honorable%20mentions%20from%20my%20toolbox&descSize=22&descAlignY=75&descAlign=27">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Tools&height=130&fontSize=48&fontAlign=7&desc=Honorable%20mentions%20from%20my%20toolbox&descSize=24&descAlignY=75&descAlign=27">
 </a>
 
 - 🪟 Any proper tiling window manager - gravitating towards <a target="_blank" href="https://github.com/Bismuth-Forge/bismuth">bismuth</a> since 2021 though.
@@ -39,7 +39,7 @@ Personal focus tasks
 - 🔫 The secret sauce is <a target="_blank" href="https://github.com/tenxsoydev/nxvim/">nxvim</a>.
 
 <a id="stats">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Stats&height=120&fontSize=42&fontAlign=7&desc=Profile%20analysis&descSize=22&descAlignY=75&descAlign=14" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Stats&height=130&fontSize=48&fontAlign=7&desc=Profile%20analysis&descSize=24&descAlignY=75&descAlign=14" />
 </a>
 
 <img width="350" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&layout=compact&count_private=true&include_orgs=true&langs_count=12&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=blueberry&border_color=6272A4">
@@ -56,8 +56,12 @@ Personal focus tasks
 				<tr>
 					<td>
 						<br>
-						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/base.svg" alt="Base" /></a><br>
-						<img width="360" src="./empty-path/fix-alignment-on-mobile.gif">
+						<a href="https://github.com/tobealive">
+              <img align="center" width="420" src="assets/base.svg" alt="Base" />
+            </a>
+            <br>
+            <!-- pseudo img to preserve size on mobile -->
+						<img width="360" src="./path-nowhere/pseudo.gif">
 					</td>
 					<td>
 						<sub><em>Default Analysis - Profile Repositories</em></sub><br>
@@ -68,7 +72,8 @@ Personal focus tasks
 						<br>
 						<sub><em>Default Analysis - Recent Commits (30 Days)</em></sub><br>
 						<a href="https://github.com/tobealive"><img align="center" width="420" src="assets/langs-recent.svg" alt="Recent Analysis"></a><br>
-						<a href="https://github.com/tobealive"><img width="360" src="./empty-path/fix-alignment-on-mobile.gif"></a>
+            <!-- pseudo img to preserve size on mobile -->
+						<img width="360" src="./path-nowhere/pseudo.gif">
 					</td>
 				</tr>
 				<tr>
