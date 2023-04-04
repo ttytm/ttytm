@@ -40,7 +40,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
-          plugin_languages_aliases: RenderScript:Rust
+          plugin_languages_aliases: RenderScript:Rust Coq:V
           plugin_languages_ignored: Nix, html, css
           plugin_languages_recent_days: 14
           plugin_languages_skipped: tobealive/jikan, tobealive/dots
@@ -55,10 +55,10 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_categories: programming
-          plugin_languages_colors: github
+          plugin_languages_colors: github, lua:#010169
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
-          plugin_languages_aliases: RenderScript:Rust
+          plugin_languages_aliases: RenderScript:Rust Coq:V
           plugin_languages_ignored: Nix
           plugin_languages_skipped: tobealive/jikan, tobealive/dots
       - name: Langs - Recent
@@ -74,7 +74,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
-          plugin_languages_aliases: RenderScript:Rust
+          plugin_languages_aliases: RenderScript:Rust Coq:V
           plugin_languages_ignored: Nix
           plugin_languages_skipped: tobealive/jikan, tobealive/dots
           plugin_languages_recent_days: 30
