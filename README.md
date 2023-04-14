@@ -35,9 +35,9 @@ Personal focus tasks
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Tools&height=130&fontSize=48&fontAlign=7&desc=Honorable%20mentions%20from%20my%20toolbox&descSize=24&descAlignY=75&descAlign=27">
 </a>
 
-- 🪟 Any proper tiling window manager - gravitating towards <a target="_blank" href="https://github.com/Bismuth-Forge/bismuth">bismuth</a> since 2021 though.
-- <sup><sub>⌨️ ⌨️</sub></sup> A programmable split keyboard - for ergos and to give VIMpowers to my whole OS (it's an keebio iris atm).
-- 🧠 Knowledge management tools - currently, I'm using neovim to manage an obsidian vault. However, it's hard to settle when there is exceptional software emerging like <a target="_blank" href="https://github.com/siyuan-note/siyuan">siyuan-note</a>.
+- 🪟 A proper tiling window manager - gravitating towards <a target="_blank" href="https://github.com/Bismuth-Forge/bismuth">bismuth</a> since 2021, though squinting at hyperland.
+- <sup><sub>⌨️ ⌨️</sub></sup> A programmable split keyboard - provides ergos, ~~em~~VIMpowers whole OS navigation (current: keebio iris, bobagum silent switches, blank low-profile keycaps).
+- 🧠 Knowledge management tools - atm neovim to manage an obsidian vault. However, it's hard to settle when exceptional software like <a target="_blank" href="https://github.com/siyuan-note/siyuan">siyuan-note</a> is emerging.
 - 🔫 The secret sauce is <a target="_blank" href="https://github.com/tenxsoydev/nxvim/">nxvim</a>.
 
 <a id="stats">
