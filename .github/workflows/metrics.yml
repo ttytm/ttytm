@@ -4,8 +4,7 @@ name: Metrics
 
 on:
   # 🌏 No need to update stats too frequently
-  #schedule: [{cron: "0 18 * * *"}]
-  schedule: [{ cron: "0 12 * * 0" }]
+  schedule: [{ cron: '0 12 * * 0' }]
   # 💡 Allow running workflow manually from action tab
   workflow_dispatch:
 
@@ -34,49 +33,49 @@ jobs:
           filename: assets/langs-all.svg
           output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: ''
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
           plugin_languages_aliases: RenderScript:Rust
-          plugin_languages_ignored: Nix, html, css
+          plugin_languages_ignored: Nix, html, css, scss
           plugin_languages_recent_days: 14
-          plugin_languages_skipped: tobealive/jikan, tobealive/dots
+          plugin_languages_skipped: ttytm/jikan, ttytm/dots
       - name: Langs Indepth - Public (Programming)
         uses: lowlighter/metrics@latest
         with:
           filename: assets/langs-indepth-programming.svg
           output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: ''
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_categories: programming
-          plugin_languages_colors: github, lua:#010169
+          plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Nix
-          plugin_languages_skipped: tobealive/jikan, tobealive/dots
+          plugin_languages_skipped: ttytm/jikan, ttytm/dots
       - name: Langs - Recent
         uses: lowlighter/metrics@latest
         with:
           filename: assets/langs-recent.svg
           output_action: pull-request-squash
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: ''
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_indepth: yes
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
-          plugin_languages_aliases: Coq:V
+          plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Nix
-          plugin_languages_skipped: tobealive/jikan, tobealive/dots
+          plugin_languages_skipped: ttytm/jikan, ttytm/dots
           plugin_languages_recent_days: 30
           #plugin_languages_recent_load: 300
           #plugin_languages_recent_categories: programming
