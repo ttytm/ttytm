@@ -44,9 +44,9 @@ Personal focus tasks
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Stats&height=130&fontSize=48&fontAlign=7&desc=Profile%20analysis&descSize=24&descAlignY=75&descAlign=14" />
 </a>
 
-<img width="350" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&layout=compact&count_private=true&include_orgs=true&langs_count=12&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=blueberry&border_color=6272A4">
-<img width="420" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api?username=tobealive&count_private=true&include_orgs=true&show_icons=true&theme=blueberry&border_color=6272A4">
-<!-- <img width="450" src="https://streak-stats.demolab.com/?user=tobealive&theme=tokyonight&border=15161e&stroke=15161e"> -->
+<img width="350" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=ttytm&layout=compact&count_private=true&include_orgs=true&langs_count=12&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=blueberry&border_color=6272A4">
+<img width="420" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api?username=ttytm&count_private=true&include_orgs=true&show_icons=true&theme=blueberry&border_color=6272A4">
+<!-- <img width="450" src="https://streak-stats.demolab.com/?user=ttytm&theme=tokyonight&border=15161e&stroke=15161e"> -->
 
 <br>
 <div>
