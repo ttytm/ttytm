@@ -44,9 +44,9 @@ Personal focus tasks
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Stats&height=130&fontSize=48&fontAlign=7&desc=Profile%20analysis&descSize=24&descAlignY=75&descAlign=14" />
 </a>
 
-<img width="350" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=tobealive&layout=compact&count_private=true&include_orgs=true&langs_count=12&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=blueberry&border_color=6272A4">
-<img width="420" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api?username=tobealive&count_private=true&include_orgs=true&show_icons=true&theme=blueberry&border_color=6272A4">
-<!-- <img width="450" src="https://streak-stats.demolab.com/?user=tobealive&theme=tokyonight&border=15161e&stroke=15161e"> -->
+<img width="350" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=ttytm&layout=compact&count_private=true&include_orgs=true&langs_count=12&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=blueberry&border_color=6272A4">
+<img width="420" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api?username=ttytm&count_private=true&include_orgs=true&show_icons=true&theme=blueberry&border_color=6272A4">
+<!-- <img width="450" src="https://streak-stats.demolab.com/?user=ttytm&theme=tokyonight&border=15161e&stroke=15161e"> -->
 
 <br>
 <div>
@@ -58,7 +58,7 @@ Personal focus tasks
 				<tr>
 					<td>
 						<br />
-						<a href="https://github.com/tobealive">
+						<a href="https://github.com/ttytm">
 							<img align="center" width="420" src="assets/base.svg" alt="Base" />
 						</a>
 						<br />
@@ -68,13 +68,13 @@ Personal focus tasks
 					<td>
 						<sub><em>Default Analysis - Profile Repositories</em></sub
 						><br />
-						<a href="https://github.com/tobealive"
+						<a href="https://github.com/ttytm"
 							><img align="center" width="420" src="assets/langs-all.svg" alt="All Commits Analysis" /></a
 						><br />
 						<br />
 						<sub><em>Indepth Analysis - Public Commits (Category: "Programming")</em></sub
 						><br />
-						<a href="https://github.com/tobealive"
+						<a href="https://github.com/ttytm"
 							><img
 								align="center"
 								width="420"
@@ -84,7 +84,7 @@ Personal focus tasks
 						<br />
 						<sub><em>Default Analysis - Recent Commits (30 Days)</em></sub
 						><br />
-						<a href="https://github.com/tobealive"
+						<a href="https://github.com/ttytm"
 							><img align="center" width="420" src="assets/langs-recent.svg" alt="Recent Analysis" /></a
 						><br />
 						<!-- pseudo img to preserve size on mobile -->
