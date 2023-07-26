@@ -4,20 +4,16 @@ name: Metrics
 
 on:
   # 🌏 No need to update stats too frequently
-  #schedule: [{cron: "0 18 * * *"}]
-  schedule: [{ cron: "0 12 * * 0" }]
+  schedule: [{ cron: '0 12 * * 0' }]
   # 💡 Allow running workflow manually from action tab
   workflow_dispatch:
 
 jobs:
-  metrics:
+  base:
+    name: Base
     runs-on: ubuntu-latest
-    #permissions:
-    #contents: write
-    #pull-requests: write
     steps:
-      - name: Base
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: assets/base.svg
           #output_action: gist
@@ -28,65 +24,79 @@ jobs:
           config_timezone: Europe/Berlin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: Langs - Profile Repositories
-        uses: lowlighter/metrics@latest
+  profile:
+    name: Langs - Profile Repositories
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
         with:
+          base: ''
           filename: assets/langs-all.svg
           output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
           plugin_languages_aliases: RenderScript:Rust
-          plugin_languages_ignored: Nix, html, css
+          plugin_languages_ignored: Nix, html, css, scss
           plugin_languages_recent_days: 14
-          plugin_languages_skipped: tobealive/jikan, tobealive/dots
-      - name: Langs Indepth - Public (Programming)
-        uses: lowlighter/metrics@latest
+          plugin_languages_skipped: ttytm/jikan, ttytm/dots
+  indepth:
+    name: Langs - Public Indepth (Programming)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
         with:
+          base: ''
           filename: assets/langs-indepth-programming.svg
           output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_languages: yes
-          plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
           plugin_languages_categories: programming
-          plugin_languages_colors: github, lua:#010169
+          plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Nix
-          plugin_languages_skipped: tobealive/jikan, tobealive/dots
-      - name: Langs - Recent
-        uses: lowlighter/metrics@latest
+          plugin_languages_skipped: ttytm/jikan, ttytm/dots
+  recent:
+    name: Langs - Recent
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
         with:
+          base: ''
           filename: assets/langs-recent.svg
-          output_action: pull-request-squash
+          output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_languages: yes
-          plugin_languages_sections: recently-used
           plugin_languages_indepth: yes
+          plugin_languages_sections: recently-used
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
           plugin_languages_aliases: Coq:V
           plugin_languages_ignored: Nix
-          plugin_languages_skipped: tobealive/jikan, tobealive/dots
+          plugin_languages_skipped: ttytm/jikan, ttytm/dots
           plugin_languages_recent_days: 30
           #plugin_languages_recent_load: 300
           #plugin_languages_recent_categories: programming
-      #- name: Featured star list languages
-      #uses: lowlighter/metrics@latest
-      #with:
-      #filename: langs-starlist.svg
-      #token: NOT_NEEDED
-      #base: ""
-      #plugin_starlists: yes
-      #plugin_starlists_languages: yes
-      #plugin_starlists_limit_languages: 8
-      #plugin_starlists_limit_repositories: 0
+  starred:
+    name: Langs - Star List
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          base: ''
+          output_action: pull-request
+          # output_action: pull-request-squash
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: langs-starlist.svg
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 0
