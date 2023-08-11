@@ -35,8 +35,10 @@ Personal focus tasks
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Tools&height=130&fontSize=48&fontAlign=7&desc=Honorable%20mentions%20from%20my%20toolbox&descSize=24&descAlignY=75&descAlign=27">
 </a>
 
-- 🪟 A proper tiling window manager - gravitating towards <a target="_blank" href="https://github.com/Bismuth-Forge/bismuth">bismuth</a> since 2021, though squinting at hyperland.
-- <sup><sub>⌨️ ⌨️</sub></sup> A programmable split keyboard - provides ergos, ~~em~~VIMpowers whole OS navigation (current: keebio iris, bobagum silent switches, blank low-profile keycaps).
+Good tooling makes working faster, more pleasant and fun.
+
+- 🪟 I see no way to achieve proper workflows without a tiling window manager ([bismuth](https://github.com/Bismuth-Forge/bismuth), [polonium](https://github.com/zeroxoneafour/polonium), [PaperWM](https://github.com/paperwm/PaperWM) are awesome in combination with a regular desktop environment).
+- <sup><sub>⌨️ ⌨️</sub></sup> A programmable split keyboard - provides ergonomics, ~~em~~VIMpowers navigation of my whole OS (current: keebio iris, bobagum silent switches, blank low-profile keycaps).
 - 🧠 Knowledge management tools - atm neovim to manage an obsidian vault. However, it's hard to settle when exceptional software like <a target="_blank" href="https://github.com/siyuan-note/siyuan">siyuan-note</a> is emerging.
 - 🔫 The secret sauce is <a target="_blank" href="https://github.com/tenxsoydev/nxvim/">nxvim</a>.
 
@@ -44,67 +46,18 @@ Personal focus tasks
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D87BF&text=Stats&height=130&fontSize=48&fontAlign=7&desc=Profile%20analysis&descSize=24&descAlignY=75&descAlign=14" />
 </a>
 
-<img width="350" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api/top-langs/?username=ttytm&layout=compact&count_private=true&include_orgs=true&langs_count=12&hide=nix,javascript,vue,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=blueberry&border_color=6272A4">
-<img width="420" src="https://github-readme-stats-onx08y1iw-tobealive.vercel.app/api?username=ttytm&count_private=true&include_orgs=true&show_icons=true&theme=blueberry&border_color=6272A4">
+<table align="center">
+	<tr>
+		<td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="340" src="https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=ttytm&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=blueberry&border_color=6272A4">
+      </a>
+		</td>
+		<td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="420" src="https://github-readme-stats-beryl-one.vercel.app/api?username=ttytm&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&exclude_repo=github-readme-stats&show_icons=true&theme=blueberry&border_color=6272A4">
+      </a>
+		</td>
+	</tr>
+</table>
 <!-- <img width="450" src="https://streak-stats.demolab.com/?user=ttytm&theme=tokyonight&border=15161e&stroke=15161e"> -->
-
-<br>
-<div>
-	<section>
-		<details>
-			<summary>📊 Metrics</summary>
-			<br />
-			<table align="center">
-				<tr>
-					<td>
-						<br />
-						<a href="https://github.com/ttytm">
-							<img align="center" width="420" src="assets/base.svg" alt="Base" />
-						</a>
-						<br />
-						<!-- pseudo img to preserve size on mobile -->
-						<img width="360" src="./path-nowhere/pseudo.gif" />
-					</td>
-					<td>
-						<sub><em>Default Analysis - Profile Repositories</em></sub
-						><br />
-						<a href="https://github.com/ttytm"
-							><img align="center" width="420" src="assets/langs-all.svg" alt="All Commits Analysis" /></a
-						><br />
-						<br />
-						<sub><em>Indepth Analysis - Public Commits (Category: "Programming")</em></sub
-						><br />
-						<a href="https://github.com/ttytm"
-							><img
-								align="center"
-								width="420"
-								src="assets/langs-indepth-programming.svg"
-								alt="Programming Category Analysis" /></a
-						><br />
-						<br />
-						<sub><em>Default Analysis - Recent Commits (30 Days)</em></sub
-						><br />
-						<a href="https://github.com/ttytm"
-							><img align="center" width="420" src="assets/langs-recent.svg" alt="Recent Analysis" /></a
-						><br />
-						<!-- pseudo img to preserve size on mobile -->
-						<img width="360" src="./path-nowhere/pseudo.gif" />
-					</td>
-				</tr>
-				<tr>
-					<td colspan="2" align="right">
-						<sub>
-							<sup
-								>Profile Analysis & Language Activity. Generated with
-								<a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sup
-							>
-						</sub>
-					</td>
-				</tr>
-			</table>
-		</details>
-	</section>
-	<div align="center">
-		<!--<footer><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" /></footer>-->
-	</div>
-</div>
