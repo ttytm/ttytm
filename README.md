@@ -50,7 +50,7 @@ Good tooling makes working faster, more pleasant and fun.
 	<tr>
 		<td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="340" src="https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=ttytm&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots&theme=blueberry&border_color=6272A4">
+        <img width="340" src="https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=ttytm&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots,nxvim&theme=blueberry&border_color=6272A4">
       </a>
 		</td>
 		<td>
