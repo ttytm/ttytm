@@ -1,8 +1,18 @@
 <samp>
 
-> ## Hello
->
-> I'm Tobi. Turiiya is a Sanskrit name I got when spending a good part of my life in an ashram.
+# 👋 Hello
+
+I'm Turiiya. A programmer by heart and by profession.
+
+<details>
+<summary>
+  <kbd>toggle details</kbd>
+</summary>
+
+<br>
+
+> Turiiya is a Sanskrit name I got when spending a good part of my life in an ashram.
+> My social - let's say Muggle-name - is Tobi.
 
 > ## About - Side Facts
 >
@@ -11,9 +21,9 @@
 > - Around the same time, creating mods and user interfaces for games started a journey of UI and UX development.
 > - Today, I program open-heartedly in nearly every language.
 > - The tally of projects worked on exceeds 250.
-> - When not working WITH the tools, I usually work ON the tools. Be it the libraries and frameworks, the editors and extensions, or the programming language ifself.
+> - When not working WITH the tools, I usually work ON the tools. Be it the libraries and frameworks, the editors and extensions, or the programming language itself.
 
-> Next to being a nerd I'm also a licensed fitness trainer and nutritionist and have volunteered for various organizations for several years.
+> Next to being a nerd I'm also a licensed fitness trainer and nutritionist and have volunteered for various organizations for several years. I also like spending time with friends - be it humans or other animals.
 
 > ## Some Stats
 >
@@ -50,4 +60,5 @@
 > - Visit friends in ashram
 > - Update health
 
+</details>
 </samp>
