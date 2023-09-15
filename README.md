@@ -27,20 +27,13 @@ I'm Turiiya. A programmer by heart and by profession.
 
 > ## Some Stats
 >
-> <table align="center">
-> 	<tr>
-> 		<td>
-> 			<a href="https://github.com/anuraghazra/github-readme-stats">
-> 				<img width="320" alt="Most Used Languages" src="https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=ttytm&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots,nxvim&theme=blueberry&border_color=6272A4&bg_color=#242938">
-> 			</a>
-> 		</td>
-> 		<td>
-> 			<a href="https://github.com/anuraghazra/github-readme-stats">
-> 				<img width="400" alt="Profile GitHub Stats" src="https://github-readme-stats-beryl-one.vercel.app/api?username=ttytm&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&exclude_repo=github-readme-stats&show_icons=true&theme=blueberry&border_color=6272A4&bg_color=#242938">
-> 			</a>
-> 		</td>
-> 	</tr>
-> </table>
+> <a href="https://github.com/anuraghazra/github-readme-stats">
+>   <img width="320" alt="Most Used Languages" src="https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=ttytm&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots,nxvim&theme=blueberry&border_color=6272A4&bg_color=#242938">
+> </a>
+> 
+> <a href="https://github.com/anuraghazra/github-readme-stats">
+>   <img width="398" alt="Profile GitHub Stats" src="https://github-readme-stats-beryl-one.vercel.app/api?username=ttytm&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&exclude_repo=github-readme-stats&show_icons=true&theme=blueberry&border_color=6272A4&bg_color=#242938">
+> </a>
 
 > ## Toolbox
 >
@@ -61,4 +54,5 @@ I'm Turiiya. A programmer by heart and by profession.
 > - Update health
 
 </details>
+
 </samp>
