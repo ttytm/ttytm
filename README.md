@@ -2,7 +2,7 @@
 
 # 👋 Hello
 
-I'm Turiiya. A programmer by heart and by profession.
+I'm Turiiya. I love doing engineering work, even outside the profession. I value freedom, creativity and quality.
 
 <details>
 <summary>
@@ -35,6 +35,8 @@ I'm Turiiya. A programmer by heart and by profession.
 > - The secret sauce is <a target="_blank" href="https://github.com/tenxsoydev/nxvim/">nxvim</a>.
 
 > ## Some Stats
+>
+> Analysis of the most frequently used languages and profile performance relative to all GitHub profiles:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="320" alt="Most Used Languages" src="https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=ttytm&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots,nxvim&theme=blueberry&border_color=6272A4&bg_color=#242938">
