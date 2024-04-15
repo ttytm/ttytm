@@ -42,8 +42,12 @@ I'm Turiiya.
 > I contribute to open source projects wherever possible, which has put this profile in the top 3% of over 100 million GH profiles.
 > Many recent contributions are related to [vlang/v](http://github.com/vlang/v) and its ecosystem.
 
-<img width="398" alt="Profile GitHub Stats" src="https://github-readme-stats-beryl-one.vercel.app/api?username=ttytm&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&exclude_repo=github-readme-stats&show_icons=true&theme=github_dark_dimmed&border_color=6272A4&bg_color=#242938">
-<img width="320" alt="Most Used Languages" src="https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=ttytm&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots,nxvim&theme=github_dark_dimmed&border_color=6272A4&bg_color=#242938">
+<!--
+Store SVG files in the repository and use a weekly update action.
+This prevents them from being unavailable due to readme-stats API limits and enables potential analysis via the commit history.
+-->
+<img width="398" alt="Profile GitHub Stats" src="assets/stats.svg">
+<img width="320" alt="Most Used Languages" src="assets/langs.svg">
 
 <sub>[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
 
