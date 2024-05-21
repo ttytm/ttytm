@@ -7,7 +7,7 @@ Store SVG files in the repository and use a weekly update action.
 This prevents them from being unavailable due to readme-stats API limits and enables potential historical analysis via the commit history.
 -->
 
-<a href="https://github-readme-stats-beryl-one.vercel.app/api?username=ttytm&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&exclude_repo=github-readme-stats&show_icons=true&theme=github_dark_dimmed"><img width="398" alt="Profile Stats" src="assets/stats.svg"></a>
+<a href="https://github-readme-stats-beryl-one.vercel.app/api?username=ttytm&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&show_icons=true&theme=github_dark_dimmed"><img width="398" alt="Profile Stats" src="assets/stats.svg"></a>
 <a href="https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=ttytm&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots,nxvim&theme=github_dark_dimmed"><img width="320" alt="Most Used Languages" src="assets/langs.svg"></a>
 
 <details>
