@@ -1,12 +1,11 @@
 <samp>
 
-> Creating and contributing to open-source helps my own and client projects as well as others, so I try to do it wherever possible. This has placed my profile in the top 3%\* of over 100 million GitHub profiles. Many recent contributions are related to [vlang/v](http://github.com/vlang/v) and its ecosystem.
-
 <!--
 Store SVG files in the repository and use a weekly update action.
 This prevents them from being unavailable due to readme-stats API limits and enables potential historical analysis via the commit history.
 -->
 
+\*\
 <a href="https://github-readme-stats-beryl-one.vercel.app/api?username=ttytm&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&show_icons=true&theme=github_dark_dimmed"><img width="398" alt="Profile Stats" src="assets/stats.svg"></a>
 <a href="https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=ttytm&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots,nxvim&theme=github_dark_dimmed"><img width="320" alt="Most Used Languages" src="assets/langs.svg"></a>
 
@@ -40,7 +39,7 @@ This prevents them from being unavailable due to readme-stats API limits and ena
 
 <sub>\*[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
 
-<sup>The analysis calculates the global percentile as a weighted sum of a profile's statistics (commits, pull requests, reviews, issues, stars in published repositories, and followers) and based on the cumulative distribution function of the exponential and the log-normal distributions.</sup>
+<sup>The analysis calculates the [global percentile](https://github-readme-stats-beryl-one.vercel.app/api?username=ttytm&rank_icon=percentile&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&show_icons=true&theme=github_dark_dimmed) as a weighted sum of a profile's statistics (commits, pull requests, reviews, issues, stars in published repositories, and followers) and based on the cumulative distribution function of the exponential and the log-normal distributions.</sup>
 
 </details>
 </samp>
