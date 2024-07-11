@@ -1,7 +1,7 @@
 <samp>
 
 <!--
-Store SVG files in the repository and use a weekly update action.
+Store SVG as repository assets via a weekly update action.
 This prevents them from being unavailable due to readme-stats API limits and enables potential historical analysis via the commit history.
 -->
 
@@ -24,22 +24,22 @@ This prevents them from being unavailable due to readme-stats API limits and ena
 
 > **_Some side facts related to coding_**
 >
-> - Graduation in information technology with focus on multimedia design in 2008.
-> - Frist web projects published in 2004, at the age of 13.
-> - Around the same time, creating mods and user interfaces for games started a journey of UI and UX development.
-> - Today, I program open-heartedly in nearly every language and do a lot of DevOps work.
-> - The tally of projects worked on exceeds 250.
+> - Published first web projects in 2004, at the age of 13.
+> - Around the same time, creating mods and user interfaces for games began a journey of UI and UX development.
+> - Graduated in Information Technology with a focus on Multimedia Design in 2008.
+> - Nowadays, it's programming across languages and doing DevOps work.
+> - Worked on more than 250 projects.
 
 > **_Some personal focus tasks_**
 >
 > - Keep learning _(continuing on a vicious cycle - the more you know, the more you realize that you don't know)_.
 > - Work hard, but less. Add sleep, update health, make some babies.
-> - More guitar playing.
+> - More snowboarding and guitar playing.
 > - Visit friends in ashram.
 
 <sub>\*[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
 
-<sup>The analysis calculates the [global percentile](https://github-readme-stats-mu-sage.vercel.app/api?username=ttytm&rank_icon=percentile&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&show_icons=true&theme=github_dark_dimmed) as a weighted sum of a profile's statistics (commits, pull requests, reviews, issues, stars in published repositories, and followers) and based on the cumulative distribution function of the exponential and the log-normal distributions.</sup>
+<sup>The analysis calculates the [global percentile](https://github-readme-stats-mu-sage.vercel.app/api?username=ttytm&rank_icon=percentile&count_private=true&line_height=32&role=owner,collaborator&show=reviews,discussions_answered&show_icons=true&theme=github_dark_dimmed) as a weighted sum of a profile's statistics (including commits, pull requests, reviews, issues, stars in published repositories, and followers), based on the cumulative distribution function of the exponential and the log-normal distributions.</sup>
 
 </details>
 </samp>
