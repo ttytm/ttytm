@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Turiiya's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 932, Total Commits in 2024 : 932, Total PRs: 1128, Total PRs Reviewed: 119, Total Issues: 311, Total Discussions Answered: 6, Contributed to (last year): 80</desc>
+        <desc id="descId">Total Stars Earned: 932, Total Commits in 2024 : 932, Total PRs: 1128, Total PRs Reviewed: 119, Total Issues: 313, Total Discussions Answered: 6, Contributed to (last year): 79</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 6.729648131011616;
+        stroke-dashoffset: 6.728868192021705;
       }
     }
   
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >311</text>
+      >313</text>
     </g>
   </g><g transform="translate(0, 160)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >80</text>
+      >79</text>
     </g>
   </g>
     </svg>
